@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # Hi 👋 I'm James Perrin
 
-- 🔭 I currently work at:
-  - [Dept. of VA](https://www.va.gov/ "The US Department of Veterans Affairs provides patient care and federal benefits to Veterans and their dependents.") as a Senior IT Analyst (Web Developer)
-  - [Nucamp.co](https://www.nucamp.co/ "Nucamp.co - Affordable Coding Bootcamps for Software Development") as a Web Developer Coding Instructor
+- 🔭 I current employment:
+  - Senior IT Analyst (Web Developer) @ [Dept. of VA](https://www.va.gov/ "The US Department of Veterans Affairs provides patient care and federal benefits to Veterans and their dependents.")
+  - Web Developer Coding Instructor @ [Nucamp.co](https://www.nucamp.co/ "Nucamp.co - Affordable Coding Bootcamps for Software Development")
  
 - 🏁 Freelance clients:
   - Webmaster for [FriendsForSeals.org](https://www.friendsforseals.org/ "FriendsForSeals.org - Canada's annual commercial seal slaughter has gone on for over 500 yrs. We don't discourage signing a petition, but that won't end it..")
