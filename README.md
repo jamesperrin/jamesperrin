@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi 👋 I'm James Perrin
 
-- 🔭 I current employment:
+- 🔭 Current employment:
   - Senior IT Analyst (Web Developer) @ [Dept. of VA](https://www.va.gov/ "The US Department of Veterans Affairs provides patient care and federal benefits to Veterans and their dependents.")
   - Web Developer Coding Instructor @ [Nucamp.co](https://www.nucamp.co/ "Nucamp.co - Affordable Coding Bootcamps for Software Development")
  
