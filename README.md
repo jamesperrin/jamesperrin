@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jkperrin" target="_blank" rel="noreferrer" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  title="linkedin @jkperrin" alt="linkedin @jkperrin" width="25" height="25" /></a> <a href="https://www.linkedin.com/in/jkperrin" target="_blank" rel="noreferrer" title="twitter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  title="twitter @_jamesperrin" alt="twitter @_jamesperrin" width="25" height="25" /></a> 
 
-- 🌱 I’m currently learning **React.js and Next.js**
+- 🌱 I’m currently learning **.NET Core, Node.js, React.js and Next.js**
 
 - 💫 I’m currently working on:
 
