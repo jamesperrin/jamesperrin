@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 - 💫 I’m currently working on:
 
-  - Transplant Patient Tracker web applcation.
-    - An internal facing web application for trackering Patients through all phases of the transplant process.
+  - Transplant Patient Tracker web application.
+    - An internal facing web application for tracking Patients through all phases of the transplant process.
     - Tech: C#, ASP.Net MVC, MS SQL Server
   - Digital Collection Services web application.
     - An internal facing web application for managing the workflow for processing Litigation Hold activity through its lifecycle.
