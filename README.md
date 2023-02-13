@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
   - Transplant Patient Tracker web application.
     - An internal facing web application for tracking Patients through all phases of the transplant process.
-    - Tech: C#, ASP.Net MVC, MS SQL Server
+    - Tech: C#, ASP.NET MVC, MS SQL Server
   - Digital Collection Services web application.
     - An internal facing web application for managing the workflow for processing Litigation Hold activity through its lifecycle.
-    - Tech: C#, ASP.Net MVC, MS SQL Server
+    - Tech: C#, ASP.NET MVC, MS SQL Server
   - VA National Phone Directory web application.
     - An internal facing web application for searching any employee who has records stored in Active Directory and VistA Person 200 file.
-    - Version 1: Tech: C#, ASP.Net Core Web API, .NET Core, React.js, Next.js, MS SQL Server, SSIS, PowerShell
+    - Tech (Version-1): C#, .NET Core, ASP.NET Core Web API, Node.js, React.js, Next.js, MS SQL Server, SSIS, PowerShell
 
 ## Languages and Tools 
 
