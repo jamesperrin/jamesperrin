@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     - Tech: C#, ASP.Net MVC, MS SQL Server
   - VA National Phone Directory web application.
     - An internal facing web application for searching any employee who has records stored in Active Directory and VistA Person 200 file.
-    - Tech: C#, ASP.Net Core Web API, .NET Core, React.js, Next.js,  MS SQL Server
+    - Version 1: Tech: C#, ASP.Net Core Web API, .NET Core, React.js, Next.js, MS SQL Server, SSIS, PowerShell
 
 ## Languages and Tools 
 
