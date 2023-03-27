@@ -29,13 +29,16 @@ Here are some ideas to get you started:
 - 💫 I’m currently working on:
 
   - Transplant Patient Tracker web application.
-    - An internal facing web application for tracking Patients through all phases of the transplant process.
+    - Description: An internal facing web application for tracking Patients through all phases of the transplant process.
+    - Role: Primary/Solo Developer
     - Tech: C#, ASP.NET MVC, MS SQL Server
   - Digital Collection Services web application.
-    - An internal facing web application for managing the workflow for processing Litigation Hold activity through its lifecycle.
+    - Description: An internal facing web application for managing the workflow for processing Litigation Hold activity through its lifecycle.
+    - Role: Primary/Solo Developer
     - Tech: C#, ASP.NET MVC, MS SQL Server
   - VA National Phone Directory web application.
-    - An internal facing web application for searching any employee who has records stored in Active Directory and VistA Person 200 file.
+    - Description: An internal facing web application for searching any employee who has records stored in Active Directory and VistA Person 200 file.
+    - Role: Project Manager/Technical Lead Developer
     - Tech (Version-1): C#, .NET Core, ASP.NET Core Web API, Node.js, React.js, Next.js, MS SQL Server, SSIS, PowerShell
 
 ## Languages and Tools 
