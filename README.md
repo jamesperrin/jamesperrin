@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi 👋 I'm James Perrin
 
 - 🔭 Current employment:
-  - Senior IT Analyst (Full-Stack Web Developer) @ [Dept. of VA](https://www.va.gov/ "The US Department of Veterans Affairs provides patient care and federal benefits to Veterans and their dependents.")
+  - Senior IT Analyst (Software Developer) @ [Dept. of VA](https://www.va.gov/ "The US Department of Veterans Affairs provides patient care and federal benefits to Veterans and their dependents.")
   - Web Developer Coding Instructor @ [Nucamp.co](https://www.nucamp.co/ "Nucamp.co - Affordable Coding Bootcamps for Software Development")
  
 - 🏁 Freelance clients:
