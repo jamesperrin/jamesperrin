@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **.NET Core, Node.js, React.js and Next.js**
 
 - 💫 I’m currently working on:
-  - [FEDDEVOSS.ActiveDirectoryHelper](https://github.com/jamesperrin/FEDDEVOSS.ActiveDirectoryHelper) web application.
+  - [FEDDEVOSS.ActiveDirectoryHelper](https://github.com/jamesperrin/FEDDEVOSS.ActiveDirectoryHelper) C# class library.
     - Description: A .NET Standard C# class library exposing Active Directory data. This class library can be used in any Windows .NET Standard 2.0+, .NET Framework 4.6.1+, or .NET/.NET Core 2.0+ based projects.
     - Tech: C#, .NET Standard 2.0
   - [Transplant Patient Tracker](https://github.com/department-of-veterans-affairs/TransplantPatientTracker "Transplant Patient Tracker code repo") web application.
