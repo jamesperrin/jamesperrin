@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi 👋 I'm James Perrin
 
 - 🔭 Current employment:
-  - Senior IT Analyst (Software Developer) @ [Dept. of VA](https://www.va.gov/ "The US Department of Veterans Affairs provides patient care and federal benefits to Veterans and their dependents.")
+  - Senior IT Analyst (Web and Software Developer) @ [Dept. of VA](https://www.va.gov/ "The US Department of Veterans Affairs provides patient care and federal benefits to Veterans and their dependents.")
   - Web Developer Coding Instructor @ [Nucamp.co](https://www.nucamp.co/ "Nucamp.co - Affordable Coding Bootcamps for Software Development")
  
 - 🏁 Freelance clients:
@@ -27,12 +27,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **.NET Core, Node.js, React.js and Next.js**
 
 - 💫 I’m currently working on:
-
-  - Transplant Patient Tracker web application.
+  - [FEDDEVOSS.ActiveDirectoryHelper](https://github.com/jamesperrin/FEDDEVOSS.ActiveDirectoryHelper) web application.
+    - Description: A .NET Standard C# class library exposing Active Directory data. This class library can be used in any Windows .NET Standard 2.0+, .NET Framework 4.6.1+, or .NET/.NET Core 2.0+ based projects.
+    - Tech: C#, .NET Standard 2.0
+  - [Transplant Patient Tracker](https://github.com/department-of-veterans-affairs/TransplantPatientTracker "Transplant Patient Tracker code repo") web application.
     - Description: An internal facing web application for tracking Patients through all phases of the transplant process.
     - Role: Primary/Solo Developer
     - Tech: C#, ASP.NET MVC, MS SQL Server
-  - Digital Collection Services web application.
+  - [Digital Collection Services](https://github.com/department-of-veterans-affairs/DigitalCollectionServices "Digital Collection Services code repo") web application.
     - Description: An internal facing web application for managing the workflow for processing Litigation Hold activity through its lifecycle.
     - Role: Primary/Solo Developer
     - Tech: C#, ASP.NET MVC, MS SQL Server
