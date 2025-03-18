@@ -27,21 +27,21 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **.NET Core, Node.js, React.js and Next.js**
 
 - 💫 I’m currently working on:
+  - VA National Phone Directory web application.
+    - Description: An internal facing web application for searching any employee who has records stored in Active Directory and VistA Person 200 file.
+    - Role: Project Manager/Technical Lead Developer
+    - Tech (Version-1): C#, .NET Core, ASP.NET Core Web API, Node.js, React.js, Next.js, MS SQL Server, SSIS, PowerShell
+  - [Transplant Patient Tracker](https://github.com/department-of-veterans-affairs/TransplantPatientTracker "Transplant Patient Tracker code repo") web application.
+    - Description: An internal facing web application for tracking Patients through all phases of the transplant process.
+    - Role: Primary/Solo Developer
+    - Tech: C#, ASP.NET MVC, MS SQL Server
   - [FEDDEVOSS.SecureStringHelper](https://github.com/jamesperrin/FEDDEVOSS.SecureStringHelper) C# class library.
     - Description: A .NET Standard class library for conversion to and from SecureString class objects with an encryption component improving protection of memory contents with sensitive data. This class library can be used in any Windows .NET Standard 2.0+, .NET Framework 4.6.1+, or .NET/.NET Core 2.0+ based projects.
     - Tech: C#, .NET Standard 2.0
   - [FEDDEVOSS.ActiveDirectoryHelper](https://github.com/jamesperrin/FEDDEVOSS.ActiveDirectoryHelper) C# class library.
     - Description: A .NET Standard C# class library exposing Active Directory data. This class library can be used in any Windows .NET Standard 2.0+, .NET Framework 4.6.1+, or .NET/.NET Core 2.0+ based projects.
     - Tech: C#, .NET Standard 2.0
-  - [Transplant Patient Tracker](https://github.com/department-of-veterans-affairs/TransplantPatientTracker "Transplant Patient Tracker code repo") web application.
-    - Description: An internal facing web application for tracking Patients through all phases of the transplant process.
-    - Role: Primary/Solo Developer
-    - Tech: C#, ASP.NET MVC, MS SQL Server
-  - VA National Phone Directory web application.
-    - Description: An internal facing web application for searching any employee who has records stored in Active Directory and VistA Person 200 file.
-    - Role: Project Manager/Technical Lead Developer
-    - Tech (Version-1): C#, .NET Core, ASP.NET Core Web API, Node.js, React.js, Next.js, MS SQL Server, SSIS, PowerShell
-
+	
 ## Languages and Tools 
 
 <div>
