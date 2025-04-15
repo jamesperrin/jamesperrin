@@ -27,16 +27,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **.NET Core, Node.js, React.js and Next.js**
 
 - 💫 I’m currently working on:
-  - VA National Phone Directory web application.
-    - Description: An internal facing web application for searching any employee who has records stored in Active Directory and VistA Person 200 file.
-    - Role: Project Manager/Technical Lead Developer
-    - Tech (Version-1): C#, .NET Core, ASP.NET Core Web API, Node.js, React.js, Next.js, MS SQL Server, SSIS, PowerShell
   - [Transplant Patient Tracker](https://github.com/department-of-veterans-affairs/TransplantPatientTracker "Transplant Patient Tracker code repo") web application.
-    - Description: An internal facing web application for tracking Patients through all phases of the transplant process.
+    - An internal-facing web application developed for VA healthcare staff to efficiently monitor and manage Veteran patients throughout every phase of the organ transplant process. Designed to enhance care coordination and ensure timely interventions, the application provides comprehensive tracking from initial referral through transplant evaluation, waitlisting, transplantation, post-operative care, and, if applicable, end-of-life follow-up.
     - Role: Primary/Solo Developer
     - Tech: C#, ASP.NET MVC, MS SQL Server
+  - VA National Phone Directory web application.
+    - An internal facing web application and API for searching any employee who has records stored in Active Directory and VistA Person 200 file.
+    - Role: Project Manager/Technical Lead Developer
+    - Tech (Version-1): C#, .NET Core, ASP.NET Core Web API, Node.js, React.js, Next.js, MS SQL Server, SSIS, PowerShell  
   - VA Facility On-Call Schedule web application.
-    - Description: An internal facing web application for tracking Facilities Services schedules for On-Call Staff. This is a multiple team member development effort.
+    - An internal facing web application for tracking Facilities Services schedules for On-Call Staff. This is a multiple team member development effort.
     - Role: Lead Developer
     - Tech: C#, ASP.NET MVC 5, MS SQL Server
 	
